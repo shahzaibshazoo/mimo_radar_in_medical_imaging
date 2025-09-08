@@ -110,7 +110,7 @@ For 1D direction-of-arrival analysis, the suite includes two advanced, subspace-
 ![Screenshot of the TestbedV2 tab showing side-by-side results of the analytical and FDTD models](https://github.com/shahzaibshazoo/mimo_radar_in_medical_imaging/blob/main/Screenshot%20From%202025-09-08%2022-52-46.png?raw=true)
 
 **Tab 6: Parametric Analysis Heatmap**
-![Screenshot of the Parametric Analysis tab displaying an SNR heatmap](https://github.com/shahzaibshazoo/mimo_radar_in_medical_imaging/blob/main/Screenshot%20From%202025-09-08%2022-53-34.png?raw=true)
+![Screenshot of the Parametric Analysis tab displaying an SNR heatmap](https://github.com/shahzaibshazoo/mimo_radar_in_medical_imaging/blob/main/Screenshot%20From%202025-09-08%2023-00-29.png?raw=true)
 
 ### 5.2. Module Functionality
 
