@@ -151,7 +151,7 @@ git clone https://github.com/your-username/your-repository-name.git
 cd your-repository-name
 
 ```
-**Steo B Installing and activating meep 
+**Steo B Installing and activating meep** 
 ```bash
 # Create a new conda environment
 conda create -n mimo-suite python=3.9
@@ -161,3 +161,8 @@ conda activate mimo-suite
 
 # Install Meep and its dependencies from conda-forge
 conda install -c conda-forge pymeep
+
+```
+**Steo C Open a Jupyter Noteobok inside Conda Environment**
+```bash
+run the notebook
