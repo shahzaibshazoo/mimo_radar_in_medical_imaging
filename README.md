@@ -145,13 +145,8 @@ This application requires Python and several scientific libraries. The FDTD engi
 
 ### 7.2. Setup Instructions
 
-**Step A: Clone the Repository**
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
 
-```
-**Steo B Installing and activating meep** 
+**Step Installing and activating meep** 
 ```bash
 # Create a new conda environment
 conda create -n mimo-suite python=3.9
