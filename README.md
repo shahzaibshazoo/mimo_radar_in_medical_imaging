@@ -17,6 +17,8 @@ The synergy between human-led ideation and AI-powered implementation was key to 
 
 ---
 
+#  POV: You Don't Need to Learn About EM Waves, Radars, and Physics to Simulate Cancer.  
+
 ## Abstract
 
 This report details the design, functionality, and technical implementation of the **Definitive MIMO Imaging Suite**, a comprehensive graphical software application for simulating and analyzing Multiple-Input Multiple-Output (MIMO) radar imaging for biomedical applications, with a primary focus on non-invasive skin cancer detection. The suite integrates two distinct simulation cores: a fast, parametric **Analytical Model** based on the radar range equation for system-level analysis, and a high-fidelity **Finite-Difference Time-Domain (FDTD) Model** powered by the Meep library for physically accurate electromagnetic wave simulation. The software implements several key signal processing algorithms, including Delay-and-Sum (DAS) beamforming for 2D image reconstruction and high-resolution angular spectrum estimation techniques (MUSIC, Capon). The suite is presented as a multi-tabbed graphical user interface (GUI) providing specialized tools for direct imaging, algorithm validation, side-by-side model comparison, and in-depth parametric analysis of system performance. This tool serves as a powerful testbed for researchers, educators, and engineers to explore the capabilities and limitations of MIMO radar for near-field medical imaging.
